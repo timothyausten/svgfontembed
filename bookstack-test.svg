@@ -10,11 +10,13 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <style>@font-face {
-  font-family: Existence;
-  src: url(https://kirjonkirjat.com/wp-content/uploads/2022/12/Existence-Light-webfont.woff) format(woff);
-  font-weight: 100;
-}</style>
+  <style>
+     @font-face {
+       font-family: Existence;
+       src: url(https://kirjonkirjat.com/wp-content/uploads/2022/12/Existence-Light-webfont.woff) format(woff);
+       font-weight: 100;
+     }
+   </style>
   <svg:defs
      id="defs2">
     <svg:rect
