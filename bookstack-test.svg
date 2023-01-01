@@ -11,8 +11,13 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style>
-  </style>
-  <svg:defs
+     @font-face {
+       font-family: Existence;
+       src: url(Existence-Light-webfont.woff) format(woff);
+       font-weight: 100;
+     }
+   </style>
+   <svg:defs
      id="defs2">
     <svg:rect
        x="159.23363"
